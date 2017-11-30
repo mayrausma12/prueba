@@ -28,5 +28,5 @@ public class Figuras_Geometricas {
         }
 
     }
-    
+    //ESTO ES UN EJEMPLO
 }
